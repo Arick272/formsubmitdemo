@@ -11,7 +11,7 @@
 
     <title>Hello, world!</title>
   </head>
-  <body background="song_backgroundV.jpg">
+  <body background="song_backgroundV.jpg"> 
 
     <div class="container mt-5">
         <h1>Contact Me!</h1>
@@ -22,7 +22,7 @@
           <!-- Disable Captcha -->
           <input type="hidden" name="_captcha" value="false">
 
-          <input type="hidden" name="_next" value="https://haydn5.github.io/formsubmitdemo/success.html" >
+          <input type="hidden" name="_next" value="https://arick272.github.io/formsubmitdemo//success.php" >
 
           <div class="col-md-6">
             <label for="firstName" class="form-label">First Name</label>
